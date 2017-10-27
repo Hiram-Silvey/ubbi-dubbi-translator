@@ -1,0 +1,7 @@
+{
+    "name": "ubbi-dubbi-translator",
+    "version": 1.0,
+    "description": "Takes ascii text and translates it to Ubbi Dubbi",
+    "keywords": ["ubbi", "dubbi", "translator"],
+    "homepage": "https://github.com/Hiram-Silvey/ubbi-dubbi-translator"
+}
